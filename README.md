@@ -1,6 +1,6 @@
-# 📊 Portfolio – Data Science, Big Data & AI
+# 📊 Portfolio – Data Engineering, Big Data & IA
 
-Bienvenue sur mon profil ! Élève ingénieure en 5ème année, filière **Data Science, Big Data & IA**, passionnée par la **Data Engineering**, le **Machine Learning** et la mise en production de solutions data.
+Bienvenue sur mon profil ! Élève ingénieure en 5ème année, filière recherche **Data Science, Big Data & IA** à l'ENSIASD, passionnée par le **Data Engineering**, le **Machine Learning** et la mise en production de solutions data.
 
 ## 📬 Me contacter
 
@@ -12,7 +12,7 @@ Bienvenue sur mon profil ! Élève ingénieure en 5ème année, filière **Data 
 
 ## 👋 À propos de moi
 
-Je suis **Najat Aderdour**, élève ingénieure en dernière année à l'**ENSIASD, Taroudant**, spécialisée en **Data Science, Big Data & IA**, actuellement à la recherche d'un stage de fin d'études (PFE).
+Je suis **Najat Aderdour**, élève ingénieure en 5ème année à l'**ENSIASD, Taroudant**, filière recherche **Data Science, Big Data & IA**, actuellement en **projet de fin d'études (PFE)** au sein de la **Banque Centrale Populaire (BCP)**, où je conçois un pipeline Big Data (architecture médaillon) pour le scoring client.
 
 Je conçois et déploie des **pipelines Big Data** (architecture médaillon Bronze/Silver/Gold), je développe des modèles de **Machine Learning**, et je construis des **dashboards décisionnels** pour transformer la donnée en insights exploitables.
 
@@ -22,12 +22,20 @@ Je conçois et déploie des **pipelines Big Data** (architecture médaillon Bron
 
 ## 🎯 Domaines d'expertise
 
-| Domaine | Réalisations & compétences clés |
-|---|---|
-| 🔄 **Data Engineering & Big Data** | Pipelines Big Data scalables, architectures Médaillon, traitement batch avec Spark/PySpark, orchestration Airflow/NiFi |
-| 🤖 **Machine Learning & MLOps** | Modélisation prédictive, traitement du déséquilibre des classes, suivi d'expérimentations (MLflow) |
-| ☁️ **Cloud & Infrastructure** | Déploiements conteneurisés (Docker), AWS Cloud |
-| 📊 **BI & Data Analytics** | Dashboards interactifs (Power BI), modélisation multidimensionnelle, KPI |
+### 🔄 Data Engineering & Big Data
+Pipelines Big Data scalables, architectures médaillon, traitement batch/streaming avec **Spark / PySpark**, ingestion **Apache NiFi**, orchestration **Airflow**, requêtage **Hive**.
+
+### 🤖 Machine Learning & MLOps
+Modélisation prédictive (**LightGBM, XGBoost**), traitement du déséquilibre des classes, optimisation d'hyperparamètres (**Optuna**), suivi d'expérimentations (**MLflow**).
+
+### 🔎 Streaming, Search & Sécurité des données
+Architectures de collecte, indexation et traçabilité (lineage) avec **Elasticsearch, Logstash, Kibana**, traitement temps réel **Spark Streaming**, pour la conformité RGPD/CCPA.
+
+### ☁️ Cloud & Infrastructure
+Déploiements conteneurisés **Docker**, **AWS** (EC2, S3, Lambda), environnements **Linux**.
+
+### 📊 BI & Data Analytics
+Dashboards interactifs **Power BI**, modélisation multidimensionnelle, OLAP, définition de KPI.
 
 ---
 
@@ -39,6 +47,7 @@ Je conçois et déploie des **pipelines Big Data** (architecture médaillon Bron
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Big Data
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
@@ -51,26 +60,27 @@ Je conçois et déploie des **pipelines Big Data** (architecture médaillon Bron
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-728E9B?style=flat-square&logo=apache&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-4B8BBE?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-2FA7D6?style=flat-square)
 
 ### Machine Learning & Deep Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-4B8BBE?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square)
 
 ### Streaming & Search
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Spark Streaming](https://img.shields.io/badge/Spark_Streaming-E25A1C?style=flat-square)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Bases de données
@@ -94,6 +104,7 @@ Je conçois et déploie des **pipelines Big Data** (architecture médaillon Bron
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-gray?style=flat-square)
 
 ---
