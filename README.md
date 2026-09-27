@@ -12,11 +12,9 @@ Bienvenue sur mon profil ! Élève ingénieure en 5ème année, filière recherc
 
 ## 👋 À propos de moi
 
-Je suis **Najat Aderdour**, élève ingénieure en 5ème année à l'**ENSIASD, Taroudant**, filière recherche **Data Science, Big Data & IA**, actuellement en **projet de fin d'études (PFE)** au sein de la **Banque Centrale Populaire (BCP)**, où je conçois un pipeline Big Data (architecture médaillon) pour le scoring client.
-
+Je suis **Najat Aderdour**, élève ingénieure en dernière année à l'**ENSIASD, Taroudant**, spécialisée en **Data Science, Big Data & IA**, actuellement à la recherche d'un stage de fin d'études (PFE).
+ 
 Je conçois et déploie des **pipelines Big Data** (architecture médaillon Bronze/Silver/Gold), je développe des modèles de **Machine Learning**, et je construis des **dashboards décisionnels** pour transformer la donnée en insights exploitables.
-
-> 💡 Retrouvez mes projets en détail sur mon [Portfolio](https://adernajat.github.io).
 
 ---
 
